@@ -91,7 +91,7 @@ public class Persona {
                ", telefono= " + telefono +
                ", fechaNacimiento= " + fechaNacimiento +
                ", dni= " + dni +
-               "}";
+                "}";
     }
 }
 
